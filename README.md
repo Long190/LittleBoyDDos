@@ -75,7 +75,7 @@ How to use:
 - Using vps with high speed will be stronger
 
 git clone https://github.com/Long190/LittleBoyDDos/
-cd LitteBoyDDos/
+cd LittleBoyDDos/
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
